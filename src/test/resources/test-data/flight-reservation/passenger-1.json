@@ -1,0 +1,11 @@
+{
+  "firstName" : "Artem",
+  "lastName" : "MyLastName",
+  "email" : "artem.study.com",
+  "password" : "password111",
+  "street": "111 second main street",
+  "city" : "London",
+  "zip": "dv5455225",
+  "passengersCount": "1",
+  "expectedPrice": "$584 USD"
+}

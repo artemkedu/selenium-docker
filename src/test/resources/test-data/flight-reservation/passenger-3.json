@@ -1,0 +1,11 @@
+{
+  "firstName" : "Vova",
+  "lastName" : "HisLastName",
+  "email" : "vova.study.com",
+  "password" : "password333",
+  "street": "333 second main street",
+  "city" : "Albans",
+  "zip": "0001114",
+  "passengersCount": "3",
+  "expectedPrice": "$1753 USD"
+}

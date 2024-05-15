@@ -1,0 +1,11 @@
+{
+  "firstName" : "Lesia",
+  "lastName" : "LesLastName",
+  "email" : "lesia.study.com",
+  "password" : "password444",
+  "street": "444 second main street",
+  "city" : "Chicago",
+  "zip": "45555214",
+  "passengersCount": "4",
+  "expectedPrice": "$2338 USD"
+}
